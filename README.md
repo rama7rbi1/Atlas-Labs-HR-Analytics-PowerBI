@@ -1,4 +1,4 @@
-# AtlasLabs-HR-Analytcs-Dashboard
+# AtlasLabs-HR-Analytics-Dashboard
 A Power BI dashboard analysing employee demographics, performance and attrition at AtlasLabs.
 
 This project was completed as part of a Datacamp course. 
