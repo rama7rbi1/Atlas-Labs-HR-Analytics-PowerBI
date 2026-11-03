@@ -11,10 +11,14 @@ The report has four pages:
 * **Attrition**: presents attritions by hire year, overtime, travel frequency, tenure, department and job role. 
 
 ## Dashboard Preview 
-* Overview 
+* Overview
+  <img src="images/overview.png" alt="Overview page" width="800">
 * Demographics
-* Performance Tracker 
-* Attrition 
+  <img src="images/demographics.png" alt="Demographics page" width="800">
+* Performance Tracker
+  <img src="images/performance-tracker.png" alt="Performance Tracker page" width="800">
+* Attrition
+  <img src="images/attrition.png" alt="Attrition page" width="800">
 
 ## Key Findings 
 * 1.47k employees in total, 1.23k active and 237 inactive, giving a 16.1% attrition rate.
